@@ -6,7 +6,7 @@ linear_extrude(height = 2)
             translate([60,10]) 
                 circle(8, center=true);
         }
-        translate([60,10]) circle(5, center=true);
+        translate([60,10]) circle(2.5, center=true);
         translate([2,4]) square([25,12]);
     }
     
